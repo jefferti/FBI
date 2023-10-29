@@ -1,7 +1,7 @@
 {
-    "serverAddress": "DET.",
+    "serverAddress": "DET.gov",
     "serverName": "Detective organization",
-    "iconName": "det",
+    "iconName": "Det.",
     "terminalID": "First",
     "defaultUser": {
         "userId": "user",
