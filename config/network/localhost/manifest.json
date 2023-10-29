@@ -1,8 +1,8 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Federal Bureau of Investigation",
+    "serverName": "Fedex",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "Fxi",
     "defaultUser": {
         "userId": "user",
         "password": "",
@@ -11,7 +11,7 @@
     "randomSeed": true,
     "initialHistory": {
         "user": [
-            "login admin@admin"
+            "login admin:admin"
         ],
         "admin": [
             "ping fbi.gov"
