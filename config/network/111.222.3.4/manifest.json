@@ -1,8 +1,8 @@
 {
     "serverAddress": "111.222.3.4",
-    "serverName": "FreeNode",
-    "iconName": "world.svg",
-    "terminalID": "freenode",
+    "serverName": "Alibaba Technology Forum",
+    "iconName": "atf.jpg",
+    "terminalID": "ATF",
     "defaultUser": {
         "userId": "user",
         "password": "",
