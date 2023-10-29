@@ -4,5 +4,11 @@
         "to": ["8A73B5", "user"],
         "title": "Maintenance in all servers",
         "body": "This message is for all divisions of the bureau.  Starting today, the servers may suffer instability due to the latest maintenance mesures.    admin"
+    },
+    {
+        "from": "2023",
+        "to": ["9A15Y2", "user"],
+        "title": "Welcome to the FBI",
+        "body": "  Welcome to the FBI, we're having a party next week! Want to come?    2023"
     }
 ]
