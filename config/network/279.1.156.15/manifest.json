@@ -2,7 +2,7 @@
     "serverAddress": "279.1.156.15",
     "serverName": "Detective organization",
     "iconName": "Det.png",
-    "terminalID": "Det.",
+    "terminalID": "DET",
     "defaultUser": {
         "userId": "user",
         "password": "",
