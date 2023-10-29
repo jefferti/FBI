@@ -1,8 +1,8 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Fedex",
+    "serverName": "Home",
     "iconName": "Moon-icon.png",
-    "terminalID": "Fxi",
+    "terminalID": "investigator",
     "defaultUser": {
         "userId": "user",
         "password": "",
